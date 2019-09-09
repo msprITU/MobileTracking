@@ -18,4 +18,4 @@ All videos recorded at 24 FPS with 1280x720 resolution.
 
 Result videos play at 3 FPS (8 times slower than original videos).
 
-Target object is a car for videos 1, 2, 3, 4, 5 and 12. For the other videos the target object is a person.
+Target object is a car for videos 1, 2, 3, 4, 5 and 12. For the other videos, the target object is a person.
