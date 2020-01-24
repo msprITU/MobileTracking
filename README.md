@@ -4,13 +4,7 @@ In the context of this project state-of-the-art real-time deep object detectors 
 
 ## Model Files
 
-The model files that are used in this project are trained on COCO dataset. The model files from the original sources are as follows
-
-- [YOLOv3](https://pjreddie.com/media/files/yolov3.weights)
-
-- [TinyYOLOv3](https://pjreddie.com/media/files/yolov3-tiny.weights)
-
-- [Mobilenetv1SSD]()
+The model files that are used in this project are trained on COCO dataset. TinyYOLOv3 detector model file from the original source can be found [here.](https://pjreddie.com/media/files/yolov3-tiny.weights)
 
 ## MSPR-mobile 
 
@@ -19,3 +13,6 @@ We have recorded a number of video sequences for performance evaluation. Groundt
 The dataset is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact 
 us. If you use the video dataset for your evaluations please cite the link of our data.  
 
+## Performance Evaluation
+
+Performance evaluation is done with this python notebook given [here.](https://github.com/msprITU/MobileTracking/blob/master/assets/Evaluate_Models.ipynb)
