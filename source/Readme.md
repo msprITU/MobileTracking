@@ -1,6 +1,6 @@
 ### TinyYOLOv3 Object Detection
 
-The main code for the Android application is given [here.]()
+The main code for the Android application is given [here.](https://github.com/msprITU/MobileTracking/blob/master/source/MainActivity.java)
 
 It takes videos as an input in and outputs videos + detection results as a text file for detected objects.
 
