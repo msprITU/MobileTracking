@@ -32,7 +32,7 @@ After successfully recording a video you can upload the files (video and the txt
 
 Thank you for your contribution!
 
-#### Help, I'm Stuck!
+#### Groundtruth Labeling of Object BB's
 
-For any questions regarding on how to use the app, feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
+After you have successfully recorded a video, you can use [DarkLabel](https://darkpgmr.tistory.com/16) for labeling.
 
