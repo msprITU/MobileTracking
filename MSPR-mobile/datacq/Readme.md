@@ -1,6 +1,6 @@
 ### Video Recorder
 
-This application can be used in Android Devices, to record videos at 720p 30fps.
+This application can be used in Android Devices, to record videos at 720p (1280x720), 30fps.
 
 #### Getting Started
 
