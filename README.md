@@ -3,10 +3,6 @@
 In the context of this project state-of-the-art real-time deep object detectors are adopted to mobile phones. It is aimed to improve the stand alone performance of these algorithms by using data acquired by mobile sensor. Current version is designed for [TinyYOLOv3](https://arxiv.org/abs/1804.02767) object detector enhanced by the acceleretor data but the algorithm can be easily generalized to other methods. 
 
 
-<p align="center">
-  <img src="assets/dog1.gif">
-</p>
-
 ## Model Files
 
 The model files that are used in this project are trained on COCO dataset. The model files from the original sources are as follows
