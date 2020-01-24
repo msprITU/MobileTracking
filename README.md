@@ -14,9 +14,11 @@ The model files that are used in this project are trained on COCO dataset. The m
 
 ## MSPR-mobile 
 
-We have recorded a number of video sequences for performance evaluation. Groundtruth labeling of object BBs is performed by [DarkLabel](https://darkpgmr.tistory.com/16). The dataset is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact us. If you use the video dataset for your evaluations please cite the lik of our data.  
+We have recorded a number of video sequences for performance evaluation. Groundtruth labeling of object BBs is performed by [DarkLabel](https://darkpgmr.tistory.com/16). 
 
-The dataset can be accessed from this [link.](https://www.youtube.com/playlist?list=PLgOtgHJGJuaJt6EPJt9RX4-amDhORjVEm).
+The dataset is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact us. If you use the video dataset for your evaluations please cite the link of our data.  
+
+
 
 
 ## Results
