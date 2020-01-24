@@ -1,7 +1,6 @@
 # Mobile Tracking
 
-In the context of this project state-of-the-art real-time deep object detectors are adopted to mobile phones. It is aimed to improve the stand alone performance of these algorithms by using data acquired by mobile sensors. Current version is designed for [TinyYOLOv3](https://arxiv.org/abs/1804.02767) object detector enhanced by the acceleretor data but the algorithm can be easily generalized to other methods. 
-
+In the context of this project state-of-the-art real-time deep object detectors are adopted to mobile phones. It is aimed to improve the stand alone performance of these algorithms by using data acquired by mobile sensors.
 
 ## Model Files
 
