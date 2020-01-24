@@ -24,13 +24,6 @@ It will ask for permission to use the camera, if that is the case, allow it.
 
 - It has pretty simple user interface, just press "START" to start recording. When you press "STOP" the video would be recorded.
 
-#### Tips And Tricks
-
-While recording, try to keep the videos short, between 4-8 seconds. If you decided what object you are going to track, make sure you have it in your frame, before pressing start. 
-
-After successfully recording a video you can upload the files (video and the txt matched) to a fileshare website; for example [WeTransfer](https://wetransfer.com/) , you can send the link to [Sezai](mailto:sezaiburakkantarci@gmail.com) with your name & your smartphone brand/model & year of study at ITU.
-
-Thank you for your contribution!
 
 #### Groundtruth Labeling of Object BB's
 
