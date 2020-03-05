@@ -12,7 +12,7 @@ This application can be used in Android Devices, to record videos at 720p (1280x
 
 The app you are installing is called **"Video Recorder"**
 
-The apk can be found [here.](https://github.com/msprITU/MobileTracking/blob/master/MSPR-mobile/datacq/VideoRecorder.apk) Simply, download the file and open it.
+The java file of this application can be accessed [here.](https://github.com/msprITU/MobileTracking/blob/master/MSPR-mobile/datacq/MainActivity.java) Also the apk can be found [here.](https://github.com/msprITU/MobileTracking/blob/master/MSPR-mobile/datacq/VideoRecorder.apk) Simply, download the apk file and open it.
 
 - At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 
