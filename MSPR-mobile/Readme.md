@@ -10,7 +10,7 @@ If you would like to download the groudtruth data please contact [us](mailto::gu
 ## Labeling the data
 
 <p align="center">
-  <img src="MSPR-mobile/assets/dl.png">
+  <img src="https://github.com/msprITU/MobileTracking/blob/master/assets/dl.png">
 </p>
 
 For labeling, a basic open sourced labeling tool "DarkLabel" is used. To generate ground truth data:
