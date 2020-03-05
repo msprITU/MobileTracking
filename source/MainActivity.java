@@ -1,3 +1,6 @@
+// Developed by: Sezai Burak Kantarci, December 2019
+// For any question you can e-mail to : sezaiburakkantarci@gmail.com
+
 package com.example.yolodetector;
 
 import androidx.appcompat.app.AppCompatActivity;
