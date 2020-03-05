@@ -10,7 +10,7 @@ The model files that are used in this project are trained on COCO dataset. TinyY
 
 We have recorded a number of video sequences for performance evaluation. Groundtruth labeling of object BBs is performed by [DarkLabel](https://darkpgmr.tistory.com/16). 
 
-The dataset is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact 
+The [dataset](https://www.youtube.com/playlist?list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW) is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact 
 us. If you use the video dataset for your evaluations please cite the link of our data.  
 
 ## Performance Evaluation
