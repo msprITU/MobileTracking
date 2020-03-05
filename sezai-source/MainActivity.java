@@ -1,10 +1,9 @@
-package com.example.realtimetinyyolov3;
-
 
 // Developed by: Sezai Burak Kantarci, December 2019
 // For any question you can e-mail to : sezaiburakkantarci@gmail.com
 
 
+package com.example.realtimetinyyolov3;
 // UPDATE = 27.11.2019 TRYING 480P , LINE 275
 // last decided on 854*480
 
