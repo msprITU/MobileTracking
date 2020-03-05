@@ -3,7 +3,7 @@
 MSPR-mobile videos are captured and annotated by Multimedia Signal Processing and Pattern Recognition Group members listed below:
 
 Ulas Tosun (June 2019),
-Sezai Burak Kantarci (December 2019)
+Sezai Burak Kantarci (December 2019).
 
 For each mobile device brand, you can find the video files as well as the corresponding accelerometer sensor values under their directories.
 
