@@ -21,8 +21,7 @@ The model files that are used in this project are trained on COCO dataset. TinyY
 
 ## MSPR-mobile 
 
-The [dataset](https://www.youtube.com/playlist?list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW) is released under the name of MSPR-mobile for public use. If you would like to download the groudtruth data please contact 
-us. If you use the video dataset for your evaluations please cite the link of our data.  
+The [dataset](https://www.youtube.com/playlist?list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW) is released under the name of MSPR-mobile for public use. If you use the video dataset for your evaluations please cite the link of our data.  
 
 ## Performance Evaluation
 
