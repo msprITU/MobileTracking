@@ -19,7 +19,7 @@ For labeling, a basic open sourced labeling tool "DarkLabel" is used. To generat
 
 2. Select your recorded video; double click to open it.
 
-3. The video will be shown frame by frame; left click to draw a bounding box around the object. (You can use CTRL to adjust the bounding box)
+3. The video will be shown frame by frame; left click to draw a bounding box around the object. (You can use CTRL to adjust the bounding box.)
 
 4. After you draw the bounding box for the frame; click **"Next & Predict"**
 
