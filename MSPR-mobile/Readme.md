@@ -5,7 +5,7 @@ MSPR-mobile videos are captured and annotated by Multimedia Signal Processing an
 Ulas Tosun (June 2019),
 Sezai Burak Kantarci (December 2019)
 
-"Video Recorder" app is used for recording; more information about it can be found [here.](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/datacq)
+**"Video Recorder"** app is used for capturing; more information about it can be found [here.](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/datacq)
 
 If you would like to download the groudtruth data please contact [us](mailto::gunselb@itu.edu.tr). If you use the video dataset for your evaluations please cite the [link](https://github.com/msprITU/MobileTracking) of our data.  
 
