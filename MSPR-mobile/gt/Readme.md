@@ -13,7 +13,7 @@ The configuration for GT texts are given as; **( frame number, x, y, w, h).**
 
 For annotating the data, a basic open sourced labeling tool "DarkLabel" is used. To generate ground truth data:
 
-1. Download **"DarkLabel"** from their [website](https://darkpgmr.tistory.com/16). Open DarkLabel.exe, select **"Open Video File ..."**
+1. Download **"DarkLabel"** from their [website](https://darkpgmr.tistory.com/16). You can also use the download the [files](https://github.com/msprITU/MobileTracking/tree/master/assets/DarkLabel) we used to access the executable file. Open DarkLabel.exe, select **"Open Video File ..."**
 
 2. Select your recorded video; double click to open it.
 
