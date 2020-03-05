@@ -27,9 +27,3 @@ After installation, open the app.
 - It will ask for permission to use the camera, if that is the case, allow it.
 
 - It has pretty simple user interface, just press "START" to start recording. When you press "STOP" the video would be recorded.
-
-
-#### Groundtruth Labeling of Object BB's
-
-After you have successfully recorded a video, you can use [DarkLabel](https://darkpgmr.tistory.com/16) for labeling.
-
