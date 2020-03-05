@@ -24,7 +24,7 @@ The java file of this application can be accessed [here.](https://github.com/msp
 
 After installation, open the app.
 
-It will ask for permission to use the camera, if that is the case, allow it.
+- It will ask for permission to use the camera, if that is the case, allow it.
 
 - It has pretty simple user interface, just press "START" to start recording. When you press "STOP" the video would be recorded.
 
