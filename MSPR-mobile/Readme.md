@@ -1,12 +1,9 @@
 ## MSPR-mobile
 
-MSPR-mobile videos are captured and annotated by Multimedia Signal Processing and Pattern Recognition Group members listed below:
+- In [**"datacq"**](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/datacq) data acquisition for the dataset is covered with explanation of the application *"Video Recorder"* 
 
-Ulas Tosun (June 2019),
-Sezai Burak Kantarci (December 2019)
+- [**"gt"**](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/gt) folder contains the ground truth data for the dataset. Also, data annotation with *"DarkLabel"* is shown with a step-by-step tutorial. 
 
-**"Video Recorder"** app is used for capturing; more information about it can be found in ["/datacq".](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/datacq)
+- [**"rawdata"**](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/rawdata) contains the *".avi"* video files as well as the accelerometer data read from *"Video Recorder"* app.
 
-The groundtruth for MSPR-mobile is in ["/gt"](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/gt) folder. Also; ["/rawdata"](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/rawdata) contains the *".avi"* video files as well as the accelerometer data from **"Video Recorder"** app.
-
-If you would like to download the groudtruth data please contact [us](mailto::gunselb@itu.edu.tr). If you use the video dataset for your evaluations please cite the [link](https://github.com/msprITU/MobileTracking) of our data.  
+If you use the video dataset for your evaluations please cite the [link](https://github.com/msprITU/MobileTracking) of our data.  
