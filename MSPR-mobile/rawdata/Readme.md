@@ -7,7 +7,7 @@ Sezai Burak Kantarci (December 2019).
 
 For each mobile device brand, you can find the video files as well as the corresponding accelerometer sensor values under their directories.
 
-The **"object_acc.txt"** files for the dataset are configurated as;
+- The **"object_acc.txt"** files for the dataset are configurated as;
 
 **(frame number, Acceleration in X axis, Acceleration in Y axis, Acceleration in Z axis, Time between two measurements in miliseconds).**
 
