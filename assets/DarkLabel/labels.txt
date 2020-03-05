@@ -1,0 +1,7 @@
+human
+object
+child
+man
+woman
+chair
+desk
