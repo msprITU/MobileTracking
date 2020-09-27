@@ -27,5 +27,5 @@ After installation, open the app.
 ## Format
 Sensor Camera application records videos as avi format.<br>
 All sensor datas will be saved as;<br>
-  frame_number: accX, accY, accZ, ms_between_two_frames
+  frame_number: accX, accY, accZ, ms_between_two_frames<br>
 Video and sensor data files will be created under **DCIM/SensorCamera**
