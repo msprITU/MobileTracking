@@ -23,3 +23,9 @@ After installation, open the app.
 - Go to settings and enable **"Save Accelerometer Data"** to enable accelerometer data recording.
 - It has pretty simple user interface, just press "Start" to start recording. When you press "STOP" the video would be recorded.
 - In order to **enable accelerometer data recording**, change recording FPS and adjust preview configurations click settings button below.
+
+## Format
+Sensor Camera application records videos as avi format.<br>
+All sensor datas will be saved as;<br>
+  frame_number: accX, accY, accZ, ms_between_two_frames
+Video and sensor data files will be created under **DCIM/SensorCamera**
