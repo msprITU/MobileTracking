@@ -1,5 +1,5 @@
 [![Website](https://yusufhanoglu.github.io/svg/website3.png)](https://yusufhanoglu.github.io/home.html)
-[![Releases](https://yusufhanoglu.github.io/svg/releases1.png)](https://github.com/yusufhanoglu/SensorCamera/release
+[![Releases](https://yusufhanoglu.github.io/svg/releases1.png)](https://github.com/yusufhanoglu/SensorCamera/releases)
 
 ## Data Acquisition
 
@@ -9,18 +9,10 @@ The MSPR-mobile dataset is made with "Sensor Camera" application.
 
 This application can be used in Android Devices, to record videos at 720p (1280x720), and desired fps.
 
-#### Getting Started
-
-- 
-
-- After that you might need to open usb debugging, from the developer options. This step is not necessary, but if you cannot connect the device you might give it a try.
-
 #### Installing
 
 The app you are installing is called **"Sensor Camera"**
-
-The java file of this application can be accessed [here.](https://github.com/msprITU/MobileTracking/blob/master/MSPR-mobile/datacq/MainActivity.java) Also the apk can be found [here.](https://github.com/msprITU/MobileTracking/blob/master/MSPR-mobile/datacq/VideoRecorder.apk) Simply, download the apk file and open it.
-
+- First of all [download latest version of "Sensor Camera"](https://github.com/yusufhanoglu/SensorCamera/releases/tag/S1.71) or install desired version in [Releases](https://github.com/yusufhanoglu/SensorCamera/releases)
 - At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 - After installation go to settings and enable **"Save Accelerometer Data"** to enable accelerometer data recording.
 #### Recording
