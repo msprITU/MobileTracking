@@ -10,7 +10,7 @@ This application can be used in Android Devices, to record videos at 720p (1280x
 #### Installing
 
 The app you are installing is called **"Sensor Camera"**
-- First of all [download latest version of "Sensor Camera"](https://github.com/yusufhanoglu/SensorCamera/releases/tag/S1.72)
+- First of all [download latest version of "Sensor Camera"](https://github.com/msprITU/MobileTracking/tree/master/MSPR-mobile/DataAcq)
 - At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 #### Recording
 
